@@ -1,4 +1,4 @@
-package Task4;
+package Task6;
 
-public class Task4Test {
+public class Task6Test {
 }
