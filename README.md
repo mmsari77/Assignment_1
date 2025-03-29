@@ -20,7 +20,7 @@ This project contains solutions to 10 programming tasks implemented in Java.
 - **Task 3**: Checks if a number is prime using an iterative approach. Time complexity: O(√n).
 - **Task 4**: Calculates the factorial of a number using recursion. Time complexity: O(n).
 - **Task 5**: Calculates the nth Fibonacci number using recursion. Time complexity: O(2^n).
-- **Task 6**: Placeholder added, to be implemented.
+- **Task 6**: Calculates a raised to the power of n using recursion. Time complexity: O(n).
 - **Task 7**: Placeholder added, to be implemented.
 - **Task 8**: Placeholder added, to be implemented.
 - **Task 9**: Placeholder added, to be implemented.
