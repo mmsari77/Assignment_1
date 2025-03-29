@@ -11,5 +11,6 @@ public class Main {
             array[i] = in.nextDouble();
         }
         System.out.println(Task2.avarageOfArrayNumbers(array));
+        in.close();
     }
 }

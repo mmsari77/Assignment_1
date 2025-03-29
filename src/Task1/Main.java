@@ -12,5 +12,6 @@ public class Main {
         }
         int result = Task1.solve(arr);
         System.out.println(result);
+        in.close();
     }
 }
