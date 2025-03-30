@@ -22,6 +22,6 @@ This project contains solutions to 10 programming tasks implemented in Java.
 - **Task 5**: Calculates the nth Fibonacci number using recursion. Time complexity: O(2^n).
 - **Task 6**: Calculates a raised to the power of n using recursion. Time complexity: O(n).
 - **Task 7**: Reverses an array in place using recursion. Time complexity: O(n).
-- **Task 8**: Checks if a string consists only of digits using recursion. Time complexity: O(n).
-- **Task 9**: Placeholder added, to be implemented.
-- **Task 10**: Placeholder added, to be implemented.
+- **Task 8**: Placeholder added, to be implemented.
+- **Task 9**: Calculates the binomial coefficient C(n, k) using recursion with memoization. Time complexity: O(n*k).
+- **Task 10**: Calculates the Greatest Common Divisor (GCD) of two numbers using recursive Euclidean algorithm. Time complexity: O(log(min(a, b))).
