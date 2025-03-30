@@ -14,7 +14,7 @@ public class Task8 {
             throw new IllegalArgumentException("String cannot be null");
         }
         if (str.isEmpty()) {
-            return true; // Пустая строка считается валидной
+            return true;
         }
         return checkDigitsRecursive(str, 0);
     }
